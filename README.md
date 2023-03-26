@@ -8,7 +8,7 @@
 - I have a degree in Electrical Engineering, where I learned the fundamentals of programming. I have also completed Beetroot Academy C# development course,  to improve my knowledge and skills in .NET development. 
 
 ## Projects 🧰
-- I currently working on my project Interactive To-Do List. It is a planner-like app, where user can track their daily and long-term tasks in a game format and get the rewards for their successful completion. 
+- I am currently working on my project - Interactive To-Do List. It is a planner-like app, where user can track their daily and long-term tasks in a game format and get the rewards for their successful completion. 
 
 ## Goals 🔭
  - As a trainee .NET developer, my goal is to become a proficient developer and contribute to the development of scalable and efficient web applications. I also want to learn more about software development best practices and continue to improve my skills in .NET development.
